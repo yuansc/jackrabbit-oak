@@ -45,6 +45,7 @@
     <module>oak-security-spi</module>
     <module>oak-store-composite</module>
     <module>oak-store-document</module>
+    <module>oak-store-git</module>
 
     <module>oak-blob-plugins</module>
     <module>oak-blob</module>
